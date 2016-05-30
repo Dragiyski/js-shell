@@ -1,0 +1,25 @@
+{
+  "name": "dragiyski/shell",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Shell interface for Node.JS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dragiyski/js-shell.git"
+  },
+  "keywords": [
+    "shell",
+    "cmd",
+    "spawn"
+  ],
+  "author": "Plamen Dragiyski <plamen@dragiyski.org>",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Dragiyski/js-shell/issues"
+  },
+  "homepage": "https://github.com/Dragiyski/js-shell#readme",
+  "dependencies": {
+    "bluebird": "^3.4.0"
+  }
+}
